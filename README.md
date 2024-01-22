@@ -1,4 +1,4 @@
-# Roberto Santalla Fdez.
+# Ro Santalla Fdez.
 
 > Sr. Software Engineer [@Grafana](https://github.com/grafana/)
 

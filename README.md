@@ -1,6 +1,6 @@
-# Ro Santalla Fdez.
+# Nadia Santalla Fdez.
 
-> Sr. Software Engineer [@Grafana](https://github.com/grafana/)
+> Senior Software Engineer [@Grafana](https://github.com/grafana/)
 
 <div style="margin: auto; text-align: center">
     <span>
